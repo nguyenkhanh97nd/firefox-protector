@@ -1,1 +1,2 @@
 # chrome-protector
+# firefox-protector
